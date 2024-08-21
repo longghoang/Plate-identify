@@ -1,0 +1,7 @@
+bottle
+pymongo
+opencv-python
+ultralytics
+paddlepaddle
+paddleocr
+waitress
